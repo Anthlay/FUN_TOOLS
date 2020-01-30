@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ea6e31a-53ae-476d-8747-f0407c00cad0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/web_runtime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FUN_TOOLS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FUN_TOOLS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_NLP" beforeDir="false" afterPath="$PROJECT_DIR$/Time_NLP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Time_NLP/resource/reg.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Time_NLP/resource/reg.pkl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +27,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Time_NLP/Test.py">
+        <entry file="file://$PROJECT_DIR$/filter/filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="277">
+              <caret line="149" column="25" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="25" />
+              <folding>
+                <element signature="e#45#80#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,32 +57,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Time_NLP/setup.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filter/filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="149" column="25" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="25" />
-              <folding>
-                <element signature="e#45#80#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NLP_LEARN/COCO.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/name/name_search.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -83,29 +66,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Time_NLP/RangeTimeEnum.py">
+        <entry file="file://$PROJECT_DIR$/NLP_LEARN/COCO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="89">
+              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Time_NLP/LunarSolarConverter.py">
+        <entry file="file://$PROJECT_DIR$/phone/numberlct.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="219" column="23" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
+            <state relative-caret-position="62">
+              <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/web_runtime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Time_NLP/__init__.py">
+        <entry file="file://$PROJECT_DIR$/README.TXT">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="216">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/language/langidtest.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListenAndWrite/search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-810" />
           </provider>
         </entry>
       </file>
@@ -119,7 +126,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Time_NLP" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,14 +157,16 @@
         <option value="$PROJECT_DIR$/name/name-sex.py" />
         <option value="$PROJECT_DIR$/NLP_LEARN/COCO.py" />
         <option value="$PROJECT_DIR$/name/name_search.py" />
+        <option value="$PROJECT_DIR$/scripts/web_runtime.py" />
+        <option value="$PROJECT_DIR$/README.TXT" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="186" />
-    <option name="width" value="937" />
-    <option name="height" value="789" />
+    <option name="x" value="2" />
+    <option name="y" value="10" />
+    <option name="width" value="1216" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -165,56 +174,57 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WECHAT" type="462c0819:PsiDirectoryNode" />
+              <item name="FUN_TOOLS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WECHAT" type="462c0819:PsiDirectoryNode" />
-              <item name="name" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WECHAT" type="462c0819:PsiDirectoryNode" />
+              <item name="FUN_TOOLS" type="462c0819:PsiDirectoryNode" />
               <item name="NLP_LEARN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WECHAT" type="462c0819:PsiDirectoryNode" />
-              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="FUN_TOOLS" type="462c0819:PsiDirectoryNode" />
+              <item name="phone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FUN_TOOLS" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/name" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\pyprject\WECHAT\name" />
-      <recent name="E:\pyprject\WECHAT\shape" />
-      <recent name="E:\pyprject\WECHAT\ListenAndWrite" />
-      <recent name="E:\pyprject\WECHAT\video2char" />
-      <recent name="E:\pyprject\WECHAT" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\pyprject\WECHAT\wechat" />
       <recent name="E:\pyprject\WECHAT\spider" />
       <recent name="E:\pyprject\WECHAT\filter" />
       <recent name="E:\pyprject\WECHAT\filter\filter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pyprject\FUN_TOOLS\scripts" />
+      <recent name="E:\pyprject\WECHAT\name" />
+      <recent name="E:\pyprject\WECHAT\shape" />
+      <recent name="E:\pyprject\WECHAT\ListenAndWrite" />
+      <recent name="E:\pyprject\WECHAT\video2char" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -229,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.name_search">
+  <component name="RunManager" selected="Python.numberlct">
     <configuration name="0116" type="PythonConfigurationType" factoryName="Python">
       <module name="FUN_TOOLS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,28 +286,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LunarSolarConverter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FUN_TOOLS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Time_NLP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Time_NLP/LunarSolarConverter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FUN_TOOLS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,28 +300,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Time_NLP/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="多人轰炸" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WECHAT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多人轰炸.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -452,22 +418,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="numberlct" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FUN_TOOLS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phone/numberlct.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.0116" />
       <item itemvalue="Python.auto_chat" />
       <item itemvalue="Python.Test" />
-      <item itemvalue="Python.LunarSolarConverter" />
       <item itemvalue="Python.name-sex" />
       <item itemvalue="Python.COCO" />
       <item itemvalue="Python.name_search" />
+      <item itemvalue="Python.numberlct" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.name_search" />
+        <item itemvalue="Python.numberlct" />
         <item itemvalue="Python.COCO" />
+        <item itemvalue="Python.name_search" />
         <item itemvalue="Python.name-sex" />
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.LunarSolarConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -501,6 +489,7 @@
       <workItem from="1580202134969" duration="6285000" />
       <workItem from="1580210261498" duration="885000" />
       <workItem from="1580211479060" duration="10302000" />
+      <workItem from="1580276178945" duration="3977000" />
     </task>
     <servers />
   </component>
@@ -519,18 +508,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69154000" />
+    <option name="totallyTimeSpent" value="73131000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="186" width="937" height="789" extended-state="0" />
-    <editor active="true" />
+    <frame x="2" y="10" width="1216" height="958" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24173318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3252595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42205322" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4211165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982002" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,7 +528,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32882884" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.43816793" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.23907767" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -576,11 +564,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FUN_TOOLS$Doctests_in_textfilter.coverage" NAME="Doctests in textfilter Coverage Results" MODIFIED="1580202710298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$numberlct.coverage" NAME="numberlct Coverage Results" MODIFIED="1580206732411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/phone" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$numberlct.coverage" NAME="numberlct Coverage Results" MODIFIED="1580347721492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/phone" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$b.coverage" NAME="b Coverage Results" MODIFIED="1580212180579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video2char" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$attack_movies.coverage" NAME="attack_movies Coverage Results" MODIFIED="1580203399191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$Doctests_in_DFAFilter.coverage" NAME="Doctests in DFAFilter Coverage Results" MODIFIED="1580202428935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$COCO.coverage" NAME="COCO Coverage Results" MODIFIED="1580217255254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP_LEARN" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$COCO.coverage" NAME="COCO Coverage Results" MODIFIED="1580347629303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP_LEARN" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$name_sex.coverage" NAME="name-sex Coverage Results" MODIFIED="1580215616164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
     <SUITE FILE_PATH="coverage/WECHAT$facemask.coverage" NAME="facemask Coverage Results" MODIFIED="1579702486883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$LunarSolarConverter.coverage" NAME="LunarSolarConverter Coverage Results" MODIFIED="1580215299541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time_NLP" />
@@ -592,7 +580,7 @@
     <SUITE FILE_PATH="coverage/FUN_TOOLS$RangeTimeEnum.coverage" NAME="RangeTimeEnum Coverage Results" MODIFIED="1580215271153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time_NLP" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$Test.coverage" NAME="Test Coverage Results" MODIFIED="1580215328958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time_NLP" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$ui.coverage" NAME="ui Coverage Results" MODIFIED="1580212683298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListenAndWrite" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$name_search.coverage" NAME="name_search Coverage Results" MODIFIED="1580217857292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$name_search.coverage" NAME="name_search Coverage Results" MODIFIED="1580347549263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
     <SUITE FILE_PATH="coverage/WECHAT$wechat_signature.coverage" NAME="wechat-signature Coverage Results" MODIFIED="1579702148522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$testfilter__2_.coverage" NAME="testfilter (2) Coverage Results" MODIFIED="1580203206189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/filter" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$.coverage" NAME="矩形词云图 Coverage Results" MODIFIED="1580211107164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wordcloud" />
@@ -675,19 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/language/langidtest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/numberlct.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordcloud/baidu.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -748,9 +723,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video2char/img84.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/video2char/img84.png" />
     <entry file="file://$PROJECT_DIR$/video2char/video.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -804,19 +777,26 @@
         <state relative-caret-position="-4621" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Time_NLP/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Time_NLP/setup.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Time_NLP/RangeTimeEnum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="513">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Time_NLP/LunarSolarConverter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
+        <state relative-caret-position="5913">
           <caret line="219" column="23" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
         </state>
       </provider>
@@ -828,10 +808,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/Test.py">
+    <entry file="file://$PROJECT_DIR$/spider/picture_get.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state>
+          <folding>
+            <element signature="e#50#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="149" column="25" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="25" />
+          <folding>
+            <element signature="e#45#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/language/langidtest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListenAndWrite/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/name/name_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -849,27 +856,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filter/filter.py">
+    <entry file="file://$PROJECT_DIR$/NLP_LEARN/COCO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="149" column="25" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="25" />
+        <state relative-caret-position="89">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phone/numberlct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
           <folding>
-            <element signature="e#45#80#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP_LEARN/COCO.py">
+    <entry file="file://$PROJECT_DIR$/README.TXT">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="216">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/name/name_search.py">
+    <entry file="file://$PROJECT_DIR$/scripts/web_runtime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="81">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>

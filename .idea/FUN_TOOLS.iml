@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/shape" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Time_NLP" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/NLP_LEARN" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scripts" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
