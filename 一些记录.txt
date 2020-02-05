@@ -1,0 +1,21 @@
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple xlwt
+
+151.101.72.249 github.global.ssl.fastly.net
+192.30.253.112 github.com
+
+理工大论坛地址：
+http://www.myubbs.com/whut/forum.php
+
+有翻墙软件，但是有反共信息。
+https://github.com/rfvbv298/www/blob/master/README.md?lylck#1
+
+scrapy项目
+
+1.创建项目
+	在合适的文件夹下打开命令行窗口。输入
+	scrapy startproject WHUT
+2.创建spider
+	cd WHUT
+	cd WHUT
+	cd spiders
+

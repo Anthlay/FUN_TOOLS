@@ -2,13 +2,130 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ea6e31a-53ae-476d-8747-f0407c00cad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/web_runtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar_active.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/bar_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/gui_pro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS_bar/tq_wget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/.idea/PicLocation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/PicLocation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicLocation/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photoInfo/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photoInfo/exif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/.idea/pos_imges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/demo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/m_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pos_imges/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/gets_td.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/luntan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/糗事百科.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/.idea/weibo_spider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/cloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/cloud_backgroud.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/comment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/msyh.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/pic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/pic/倘能如我愿.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/pic/小阔爱和侯先森.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/pic/我要YMH阿.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/pic/旅行手帐bot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/record.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo_spider/weibo_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/.idea/weibospider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/record.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/suki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/6039909686.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/6039909686.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191211 _IkfPf438s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191213 _IkAE47lLn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191221 _IlLeyyyAG_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191221 _IlLeyyyAG_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191221 _IlLeyyyAG_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191221 _IlLeyyyAG_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191221 _IlLeyyyAG_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191221 _IlLf4aliW_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191221 _IlLf4aliW_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20191221 _IlLf4aliW_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20200101 _InrUJ02zK_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20200101 _InrUJ02zK_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weibo/斜杠_ASSUE/img/20200122 _IqDi3xt2U.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibospider/weiboSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/netEcloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/BJJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/bilibili.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/loc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/loca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/prople.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/rose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/wordcloud.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/一世之尊1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/pic/颜值评论.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/qianming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/BJ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/en.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/hs评论.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/jsjs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/qianming.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/一世之尊.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/全球高武 .txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/情话.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/手势.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/谐音梗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/锁骨.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/颜值变化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/飞天.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcloud/txt/骚话6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些记录.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/FUN_TOOLS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FUN_TOOLS.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/README.TXT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Time_NLP" beforeDir="false" afterPath="$PROJECT_DIR$/Time_NLP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Time_NLP/resource/reg.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Time_NLP/resource/reg.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordcloud/baidu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wordcloud/txt/baidu.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordcloud/矩形词云图.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordcloud/矩形词云图.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,95 +141,109 @@
     <SUITE FILE_PATH="coverage/WECHAT$FileHelper.coverage" NAME="FileHelper Coverage Results" MODIFIED="1547954788961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WECHAT$auto_chat.coverage" NAME="auto_chat Coverage Results" MODIFIED="1551874337288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filter/filter.py">
+        <entry file="file://$PROJECT_DIR$/weibo_spider/weibo_comment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="149" column="25" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
               <folding>
-                <element signature="e#45#80#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/name/nome_rand.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/name/name-sex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/name/name_search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NLP_LEARN/COCO.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phone/numberlct.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/web_runtime.py">
+        <entry file="file://$PROJECT_DIR$/wordcloud/txt/情话.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            <state relative-caret-position="125">
+              <caret line="132" column="48" selection-start-line="132" selection-start-column="48" selection-end-line="132" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.TXT">
+        <entry file="file://$PROJECT_DIR$/weibo_spider/cloud.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="230">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/language/langidtest.py">
+        <entry file="file://$PROJECT_DIR$/wordcloud/qianming.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photoInfo/exif.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordcloud/pic/timg.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordcloud/pic/template.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weibo_spider/comment.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ListenAndWrite/search.py">
+        <entry file="file://$PROJECT_DIR$/weibo_spider/record.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-810" />
+            <state relative-caret-position="297">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordcloud/txt/骚话6.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56943">
+              <caret line="2109" column="1" selection-start-line="2109" selection-start-column="1" selection-end-line="2109" selection-end-column="1" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -131,11 +262,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FileHelper.py" />
-        <option value="$PROJECT_DIR$/新开1.py" />
-        <option value="$PROJECT_DIR$/电影爬虫.py" />
-        <option value="$PROJECT_DIR$/itchat_wechatattack.py" />
-        <option value="$PROJECT_DIR$/多人轰炸.py" />
         <option value="$PROJECT_DIR$/自动回复.py" />
         <option value="$PROJECT_DIR$/多次轰炸.py" />
         <option value="$PROJECT_DIR$/auto_chat.py" />
@@ -151,29 +277,63 @@
         <option value="$PROJECT_DIR$/language/langid.py" />
         <option value="$PROJECT_DIR$/language/langidtest.py" />
         <option value="$PROJECT_DIR$/phone/numberlct.py" />
-        <option value="$PROJECT_DIR$/wordcloud/矩形词云图.py" />
         <option value="$PROJECT_DIR$/video2char/a.py" />
         <option value="$PROJECT_DIR$/video2char/video.txt" />
         <option value="$PROJECT_DIR$/name/name-sex.py" />
         <option value="$PROJECT_DIR$/NLP_LEARN/COCO.py" />
         <option value="$PROJECT_DIR$/name/name_search.py" />
         <option value="$PROJECT_DIR$/scripts/web_runtime.py" />
+        <option value="$PROJECT_DIR$/PROGRESS_bar/bar4.py" />
+        <option value="$PROJECT_DIR$/PROGRESS_bar/bar3.py" />
+        <option value="$PROJECT_DIR$/PROGRESS_bar/bar1.py" />
+        <option value="$PROJECT_DIR$/PROGRESS_bar/bar2.py" />
+        <option value="$PROJECT_DIR$/PROGRESS_bar/7zxxx.py" />
         <option value="$PROJECT_DIR$/README.TXT" />
+        <option value="$PROJECT_DIR$/PROGRESS_bar/bar_gui.py" />
+        <option value="$PROJECT_DIR$/PROGRESS_bar/gui_pro.py" />
+        <option value="$PROJECT_DIR$/PROGRESS_bar/bar_active.py" />
+        <option value="$PROJECT_DIR$/spider/ebook.py" />
+        <option value="$PROJECT_DIR$/wordcloud/qianming.txt" />
+        <option value="$PROJECT_DIR$/weibospider/weibo/log.txt" />
+        <option value="$PROJECT_DIR$/weibospider/weiboSpider.py" />
+        <option value="$PROJECT_DIR$/weibospider/suki.py" />
+        <option value="$PROJECT_DIR$/wordcloud/netEcloud.py" />
+        <option value="$PROJECT_DIR$/spider/糗事百科.py" />
+        <option value="$PROJECT_DIR$/weibospider/record.txt" />
+        <option value="$PROJECT_DIR$/weibospider/readme.txt" />
+        <option value="$PROJECT_DIR$/weibospider/config.json" />
+        <option value="$PROJECT_DIR$/weibo_spider/comment.txt" />
+        <option value="$PROJECT_DIR$/photoInfo/exif.py" />
+        <option value="$PROJECT_DIR$/wordcloud/矩形词云图.py" />
+        <option value="$PROJECT_DIR$/wordcloud/txt/骚话5.txt" />
+        <option value="$PROJECT_DIR$/wordcloud/txt/骚话3.txt" />
+        <option value="$PROJECT_DIR$/wordcloud/qianming.py" />
+        <option value="$PROJECT_DIR$/weibo_spider/record.txt" />
+        <option value="$PROJECT_DIR$/wordcloud/txt/谐音梗.txt" />
+        <option value="$PROJECT_DIR$/wordcloud/txt/骚话6.txt" />
+        <option value="$PROJECT_DIR$/weibo_spider/weibo_comment.py" />
+        <option value="$PROJECT_DIR$/wordcloud/txt/情话.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
+    <option name="x" value="1" />
     <option name="y" value="10" />
-    <option name="width" value="1216" />
-    <option name="height" value="958" />
+    <option name="width" value="1202" />
+    <option name="height" value="1011" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,47 +344,56 @@
             <path>
               <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
               <item name="FUN_TOOLS" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP_LEARN" type="462c0819:PsiDirectoryNode" />
+              <item name="photoInfo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
               <item name="FUN_TOOLS" type="462c0819:PsiDirectoryNode" />
-              <item name="phone" type="462c0819:PsiDirectoryNode" />
+              <item name="photoInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="exif.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
               <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
               <item name="FUN_TOOLS" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="weibo_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FUN_TOOLS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FUN_TOOLS" type="462c0819:PsiDirectoryNode" />
+              <item name="weibo_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="weibo_comment.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="python.debugger.dataview.coloredbydefault" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pyprject\FUN_TOOLS\wordcloud\txt" />
+      <recent name="E:\pyprject\FUN_TOOLS\photoInfo" />
+      <recent name="E:\pyprject\FUN_TOOLS" />
+      <recent name="E:\pyprject\FUN_TOOLS\wordcloud" />
+      <recent name="E:\pyprject\FUN_TOOLS\scripts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pyprject\FUN_TOOLS\wordcloud" />
       <recent name="E:\pyprject\WECHAT\wechat" />
       <recent name="E:\pyprject\WECHAT\spider" />
       <recent name="E:\pyprject\WECHAT\filter" />
       <recent name="E:\pyprject\WECHAT\filter\filter" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\pyprject\FUN_TOOLS\scripts" />
-      <recent name="E:\pyprject\WECHAT\name" />
-      <recent name="E:\pyprject\WECHAT\shape" />
-      <recent name="E:\pyprject\WECHAT\ListenAndWrite" />
-      <recent name="E:\pyprject\WECHAT\video2char" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -239,7 +408,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.numberlct">
+  <component name="RunManager" selected="Python.weibo_comment">
+    <configuration name="矩形词云图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FUN_TOOLS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wordcloud" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcloud/矩形词云图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="0116" type="PythonConfigurationType" factoryName="Python">
       <module name="FUN_TOOLS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,94 +455,6 @@
         <option name="RunConfigurationTask" enabled="true" run_configuration_name="auto_chat" run_configuration_type="PythonConfigurationType" />
       </method>
     </configuration>
-    <configuration name="COCO" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FUN_TOOLS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_LEARN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_LEARN/COCO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FUN_TOOLS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Time_NLP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Time_NLP/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="多次轰炸" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WECHAT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多次轰炸.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="电影爬虫" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WECHAT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/电影爬虫.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="auto_chat" type="PythonConfigurationType" factoryName="Python">
       <module name="FUN_TOOLS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -374,7 +477,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="name-sex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exif" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FUN_TOOLS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,12 +485,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/name" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/photoInfo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/name/name-sex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/photoInfo/exif.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,7 +499,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="name_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="qianming" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FUN_TOOLS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -404,12 +507,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/name" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wordcloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/name/name_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcloud/qianming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,7 +521,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numberlct" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="weiboSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FUN_TOOLS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -426,12 +529,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phone" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weibospider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phone/numberlct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weibospider/weiboSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo_comment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FUN_TOOLS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weibo_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weibo_spider/weibo_comment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,19 +568,19 @@
     <list>
       <item itemvalue="Python.0116" />
       <item itemvalue="Python.auto_chat" />
-      <item itemvalue="Python.Test" />
-      <item itemvalue="Python.name-sex" />
-      <item itemvalue="Python.COCO" />
-      <item itemvalue="Python.name_search" />
-      <item itemvalue="Python.numberlct" />
+      <item itemvalue="Python.qianming" />
+      <item itemvalue="Python.weibo_comment" />
+      <item itemvalue="Python.weiboSpider" />
+      <item itemvalue="Python.exif" />
+      <item itemvalue="Python.矩形词云图" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.numberlct" />
-        <item itemvalue="Python.COCO" />
-        <item itemvalue="Python.name_search" />
-        <item itemvalue="Python.name-sex" />
-        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.weibo_comment" />
+        <item itemvalue="Python.qianming" />
+        <item itemvalue="Python.矩形词云图" />
+        <item itemvalue="Python.exif" />
+        <item itemvalue="Python.weiboSpider" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +614,16 @@
       <workItem from="1580202134969" duration="6285000" />
       <workItem from="1580210261498" duration="885000" />
       <workItem from="1580211479060" duration="10302000" />
-      <workItem from="1580276178945" duration="3977000" />
+      <workItem from="1580276178945" duration="6126000" />
+      <workItem from="1580460863871" duration="591000" />
+      <workItem from="1580520429627" duration="6092000" />
+      <workItem from="1580532072384" duration="3732000" />
+      <workItem from="1580546787145" duration="36116000" />
+      <workItem from="1580699561402" duration="1440000" />
+      <workItem from="1580738911182" duration="6421000" />
+      <workItem from="1580782466777" duration="11724000" />
+      <workItem from="1580820493846" duration="8675000" />
+      <workItem from="1580865386473" duration="1198000" />
     </task>
     <servers />
   </component>
@@ -506,20 +640,23 @@
     <history-entry file="Doctests_in_textfilter - 2020.01.28 at 17h 11m 50s.xml">
       <configuration name="Doctests in textfilter" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_py - 2020.02.01 at 12h 45m 09s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73131000" />
+    <option name="totallyTimeSpent" value="151269000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="10" width="1216" height="958" extended-state="0" />
+    <frame x="1" y="10" width="1202" height="1011" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3252595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16549912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4211165" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982002" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39680728" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39805827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -528,12 +665,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32882884" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.23907767" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.39927185" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.26821193" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32941177" />
+      <window_info anchor="right" x="186" y="84" width="1582" height="859" id="SciView" order="4" side_tool="true" weight="0.1357268" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15433072" />
@@ -563,327 +700,285 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$Doctests_in_textfilter.coverage" NAME="Doctests in textfilter Coverage Results" MODIFIED="1580202710298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$numberlct.coverage" NAME="numberlct Coverage Results" MODIFIED="1580347721492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/phone" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$b.coverage" NAME="b Coverage Results" MODIFIED="1580212180579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video2char" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar_active.coverage" NAME="bar_active Coverage Results" MODIFIED="1580533589783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$exif.coverage" NAME="exif Coverage Results" MODIFIED="1580796332423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/photoInfo" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$netEcloud.coverage" NAME="netEcloud Coverage Results" MODIFIED="1580698789316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wordcloud" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$attack_movies.coverage" NAME="attack_movies Coverage Results" MODIFIED="1580203399191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar4.coverage" NAME="bar4 Coverage Results" MODIFIED="1580525184256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$name_sex.coverage" NAME="name-sex Coverage Results" MODIFIED="1580215616164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$testfilter.coverage" NAME="testfilter Coverage Results" MODIFIED="1580202977903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar7.coverage" NAME="bar7 Coverage Results" MODIFIED="1580531882205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$weibo_comment.coverage" NAME="weibo_comment Coverage Results" MODIFIED="1580865610606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo_spider" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$gui_pro.coverage" NAME="gui_pro Coverage Results" MODIFIED="1580533186110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$a.coverage" NAME="a Coverage Results" MODIFIED="1580211869549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video2char" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$RangeTimeEnum.coverage" NAME="RangeTimeEnum Coverage Results" MODIFIED="1580215271153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time_NLP" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$name_search.coverage" NAME="name_search Coverage Results" MODIFIED="1580347549263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$qianming.coverage" NAME="qianming Coverage Results" MODIFIED="1580832759232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wordcloud" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar2.coverage" NAME="bar2 Coverage Results" MODIFIED="1580525605305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/WECHAT$wechat_signature.coverage" NAME="wechat-signature Coverage Results" MODIFIED="1579702148522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$c.coverage" NAME="c Coverage Results" MODIFIED="1580212215973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video2char" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$.coverage" NAME="矩形词云图 Coverage Results" MODIFIED="1580825653785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wordcloud" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$testfilter__1_.coverage" NAME="testfilter (1) Coverage Results" MODIFIED="1580203064589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/filter" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar5.coverage" NAME="bar5 Coverage Results" MODIFIED="1580531777758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$suki.coverage" NAME="suki Coverage Results" MODIFIED="1580747753801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibospider" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$langid.coverage" NAME="langid Coverage Results" MODIFIED="1580203641341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/language" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$Doctests_in_textfilter.coverage" NAME="Doctests in textfilter Coverage Results" MODIFIED="1580202710298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$luntan.coverage" NAME="luntan Coverage Results" MODIFIED="1580535534605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$ebook.coverage" NAME="ebook Coverage Results" MODIFIED="1580534271581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$numberlct.coverage" NAME="numberlct Coverage Results" MODIFIED="1580347721492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/phone" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$cloud.coverage" NAME="cloud Coverage Results" MODIFIED="1580746967444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo_spider" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$b.coverage" NAME="b Coverage Results" MODIFIED="1580212180579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video2char" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$picture_get.coverage" NAME="picture_get Coverage Results" MODIFIED="1580348863712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$Doctests_in_DFAFilter.coverage" NAME="Doctests in DFAFilter Coverage Results" MODIFIED="1580202428935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$COCO.coverage" NAME="COCO Coverage Results" MODIFIED="1580347629303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP_LEARN" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$name_sex.coverage" NAME="name-sex Coverage Results" MODIFIED="1580215616164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar6.coverage" NAME="bar6 Coverage Results" MODIFIED="1580531847739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$7zxxx.coverage" NAME="7zxxx Coverage Results" MODIFIED="1580525912460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar_gui.coverage" NAME="bar_gui Coverage Results" MODIFIED="1580533050639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
     <SUITE FILE_PATH="coverage/WECHAT$facemask.coverage" NAME="facemask Coverage Results" MODIFIED="1579702486883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$LunarSolarConverter.coverage" NAME="LunarSolarConverter Coverage Results" MODIFIED="1580215299541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time_NLP" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$testfilter.coverage" NAME="testfilter Coverage Results" MODIFIED="1580202977903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1580532305751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/profaker" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$heart_shape.coverage" NAME="heart_shape Coverage Results" MODIFIED="1580214696864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shape" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$TimeUnit.coverage" NAME="TimeUnit Coverage Results" MODIFIED="1580215222738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time_NLP" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$a.coverage" NAME="a Coverage Results" MODIFIED="1580211869549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video2char" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar3.coverage" NAME="bar3 Coverage Results" MODIFIED="1580524805001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$weiboSpider.coverage" NAME="weiboSpider Coverage Results" MODIFIED="1580783995110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibospider" />
     <SUITE FILE_PATH="coverage/WECHAT$auto_chat.coverage" NAME="auto_chat Coverage Results" MODIFIED="1579702257243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$RangeTimeEnum.coverage" NAME="RangeTimeEnum Coverage Results" MODIFIED="1580215271153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time_NLP" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$Test.coverage" NAME="Test Coverage Results" MODIFIED="1580215328958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time_NLP" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$ui.coverage" NAME="ui Coverage Results" MODIFIED="1580212683298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListenAndWrite" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$name_search.coverage" NAME="name_search Coverage Results" MODIFIED="1580347549263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
-    <SUITE FILE_PATH="coverage/WECHAT$wechat_signature.coverage" NAME="wechat-signature Coverage Results" MODIFIED="1579702148522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FUN_TOOLS$testfilter__2_.coverage" NAME="testfilter (2) Coverage Results" MODIFIED="1580203206189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/filter" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$.coverage" NAME="矩形词云图 Coverage Results" MODIFIED="1580211107164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wordcloud" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$c.coverage" NAME="c Coverage Results" MODIFIED="1580212215973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video2char" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$testfilter__1_.coverage" NAME="testfilter (1) Coverage Results" MODIFIED="1580203064589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/filter" />
-    <SUITE FILE_PATH="coverage/FUN_TOOLS$langid.coverage" NAME="langid Coverage Results" MODIFIED="1580203641341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/language" />
+    <SUITE FILE_PATH="coverage/FUN_TOOLS$bar1.coverage" NAME="bar1 Coverage Results" MODIFIED="1580524880358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PROGRESS_bar" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/项目简介官方文档 - itchat.html" />
-    <entry file="file://$PROJECT_DIR$/wechat/多人轰炸.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python3/python/Lib/site-packages/pip/_internal/download.py" />
-    <entry file="file://$PROJECT_DIR$/wechat/FileHelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facemask">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat/新开1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat/chat_robot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="16" selection-start-line="5" selection-start-column="24" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#43#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat/auto_chat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat/多次轰炸.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filter/filter/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/QR.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goupibutong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordcloud/baidu.txt">
+    <entry file="file://$PROJECT_DIR$/weibospider/weibo/log.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wechat/wechat-signature.py">
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/rose.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/wordcloud.jpg" />
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/wordcloud.jpg" />
+    <entry file="file://$PROJECT_DIR$/wordcloud/en.txt" />
+    <entry file="file://$PROJECT_DIR$/wordcloud/jsjs.txt" />
+    <entry file="file://$PROJECT_DIR$/wordcloud/qianming.txt" />
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/BJ.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/netEcloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2538">
+          <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/image2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/image1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/prople.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/糗事百科.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+          <folding>
+            <element signature="e#326#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_imges/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/hs评论.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PicLocation/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter/testfilter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3416" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/language/langidtest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibo_spider/pic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filter/testfilter.py">
+    <entry file="file://$PROJECT_DIR$/weibo_spider/pic/Kxxg_.jpg" />
+    <entry file="file://$PROJECT_DIR$/weibo_spider/pic/FiFixRrrSs.jpg" />
+    <entry file="file://$PROJECT_DIR$/weibo_spider/pic/Kxxg_评论配图.jpg" />
+    <entry file="file://$PROJECT_DIR$/weibo_spider/pic/好想嚯奶茶噢.jpg" />
+    <entry file="file://$PROJECT_DIR$/weibo_spider/pic/工具人生评论配图.jpg" />
+    <entry file="file://$PROJECT_DIR$/weibospider/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="189">
+          <caret line="7" column="20" selection-start-line="7" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wechat/qianming.txt">
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/手势.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wechat/attack_movies.py">
+    <entry file="file://$PROJECT_DIR$/weibospider/record.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="243">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/电影爬虫.py">
+    <entry file="file://$PROJECT_DIR$/weibospider/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          <folding>
-            <element signature="e#52#62#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="6415">
+          <caret line="328" column="5" selection-start-line="328" selection-start-column="5" selection-end-line="328" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/一些记录.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibospider/weiboSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="1049" column="16" selection-start-line="1049" selection-start-column="16" selection-end-line="1049" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibospider/suki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22895">
+          <caret line="240" column="22" selection-start-line="240" selection-start-column="22" selection-end-line="240" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/锁骨.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/颜值变化.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/loc.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/loca.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/baidu.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/骚话5.txt" />
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/骚话3.txt" />
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/谐音梗.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13365">
+          <caret line="495" selection-start-line="495" selection-end-line="495" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordcloud/矩形词云图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="189">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video2char/a.py">
+    <entry file="file://$PROJECT_DIR$/photoInfo/exif.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        <state relative-caret-position="594">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
           <folding>
-            <element signature="e#144#162#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video2char/img84.png" />
-    <entry file="file://$PROJECT_DIR$/video2char/video.txt">
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/timg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/pic/template.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibo_spider/comment.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/video2char/b.py">
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/骚话6.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="56943">
+          <caret line="2109" column="1" selection-start-line="2109" selection-start-column="1" selection-end-line="2109" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video2char/c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ListenAndWrite/ui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5754">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shape/heart_shape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/TimeUnit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="1034" column="35" selection-start-line="1034" selection-start-column="35" selection-end-line="1034" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/TimePoint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/TimeNormalizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4540" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/StringPreHandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4621" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/setup.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/RangeTimeEnum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/LunarSolarConverter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5913">
-          <caret line="219" column="23" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time_NLP/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/picture_get.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#50#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filter/filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="149" column="25" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="25" />
-          <folding>
-            <element signature="e#45#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language/langidtest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ListenAndWrite/search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/name/name_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/name/nome_rand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/name/name-sex.py">
+    <entry file="file://$PROJECT_DIR$/wordcloud/qianming.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NLP_LEARN/COCO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/numberlct.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.TXT">
+    <entry file="file://$PROJECT_DIR$/weibo_spider/record.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="297">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/web_runtime.py">
+    <entry file="file://$PROJECT_DIR$/weibo_spider/cloud.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        <state relative-caret-position="230">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibo_spider/weibo_comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud/txt/情话.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="132" column="48" selection-start-line="132" selection-start-column="48" selection-end-line="132" selection-end-column="48" />
         </state>
       </provider>
     </entry>

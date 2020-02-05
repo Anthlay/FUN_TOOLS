@@ -15,6 +15,13 @@
       <sourceFolder url="file://$MODULE_DIR$/Time_NLP" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/NLP_LEARN" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROGRESS_bar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibospider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/profaker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pos_imges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PicLocation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibo_spider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/photoInfo" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
