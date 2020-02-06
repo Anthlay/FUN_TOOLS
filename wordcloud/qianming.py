@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 words = []
 bg_image_path = "pic/loc.jpg"
-with open('txt/骚话6.txt', 'rb') as f:
+with open('txt/suki.txt', 'rb') as f:
     for line in f.readlines():
         seg_list = jieba.cut(line, cut_all=False)
         for w in seg_list:

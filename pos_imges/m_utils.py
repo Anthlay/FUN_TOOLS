@@ -1,12 +1,5 @@
 # -*- encoding: utf-8 -*-
-'''
-@File    :   m_utils.py
-@Contact :   guozhonghui@megvii.com
 
-@Modify Time      @Author    @Version    @Desciption
-------------      -------    --------    -----------
-2019/11/3 19:24   zhonghui      1.0         None
-'''
 import json
 import math
 

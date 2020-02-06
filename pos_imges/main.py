@@ -1,12 +1,5 @@
 # -*- encoding: utf-8 -*-
-'''
-@File    :   main.py    
-@Contact :   guozhonghui@megvii.com
 
-@Modify Time      @Author    @Version    @Desciption
-------------      -------    --------    -----------
-2019/11/3 17:16   zhonghui      1.0         None
-'''
 import os
 import exifread
 from decimal import Decimal

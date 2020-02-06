@@ -14,7 +14,8 @@ proxies = ["222.85.28.130:52590","117.191.11.80:80","117.127.16.205:8080","118.2
 headers = {
 
     "cookie":
-              "_T_WM=55585044428; MLOGIN=1; ALF=1583381706; SCF=AqIHTcJA3mbhrJOGdDGoFVZMfyrqTt8eAOTfwdXdssuBBiAfWjeZbLzHuTbgzveJOIBdxrcaMdheepsgvJ9okGA.; SUB=_2A25zPINcDeRhGeFO7VsR-S7MwzqIHXVQ3i0UrDV6PUJbktAKLWfGkW1NQULhpne4244LSbxU53ylN4yqVldVUpy1; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WhQ-ZjgKjOJccAE6BOqDrUw5JpX5K-hUgL.FoM7So.71K571hq2dJLoIXjLxK-L1-eLBKyIH-YLxKML1-2L1hBLxK-L1K5L1hBLxKBLB.BL12BLxK.L1heLB.BLxKqL1KnLB-qLxK-LB.eL1-qLxK-LB.eL1-qt; SUHB=0d4OGUx1zeHVV8; SSOLoginState=1580790542,",
+              "_T_WM=55585044428; ALF=1583456656; SCF=AqIHTcJA3mbhrJOGdDGoFVZMfyrqTt8eAOTfwdXdssuBsNl9OuXirJNvxj5LIj-mw5DUvrQ4_zHWvu8G33ueqL0.; SUB=_2A25zPlPxDeRhGeFO7VsR-S7MwzqIHXVQwX25rDV6PUJbktAKLUPVkW1NQULhppLQkWODC7P9YtLH-k5048ZyPmMy; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WhQ-ZjgKjOJccAE6BOqDrUw5JpX5K-hUgL.FoM7So.71K571hq2dJLoI0YLxKqL1hnL1K2LxKBLB.zLB-eLxKnLB.qL1K.LxKqL1-qLBK-LxKML1-2L1hBLxK-LB.-L1hnLxKMLBoBLBKMt; SUHB=0FQbwPXwVikYFd; SSOLoginState=1580868514",
+
 }
 
 
@@ -62,6 +63,7 @@ def get_child_comment(root_comment_id):
         # 每个子评论的节点
         data = html.xpath('//div[@class="WB_text"]')
         for i in data:
+            num = 1
             nick_name = ''.join(i.xpath('./a/text()')).strip().replace('\n', '')
             comment = ''.join(i.xpath('./text()')).strip().replace('\n', '')
             write_comment(comment)
@@ -80,7 +82,7 @@ def get_child_comment(root_comment_id):
                     url = resp['data']['pic_list'][0]['clear_picSrc']
                     # 下载图片
                     download_pic(pic_url, nick_name)
-        print("子评论抓取完毕...")
+        print(" 子评论抓取完毕...")
 
 
 
@@ -88,7 +90,7 @@ def get_child_comment(root_comment_id):
 if __name__ == '__main__':
     params = {
         'ajwvr': 6,
-        'id': '4461829608774311',
+        'id': '4456015556800686',
         'from': 'singleWeiBo',
         'root_comment_max_id': ''
     }
@@ -128,6 +130,6 @@ if __name__ == '__main__':
                 download_pic(pic_url, nick_name)
                 # 查看评论
                 get_child_comment(root_comment_id=comment_id)
-                time.sleep(0.1)
+                time.sleep(8)
 
 
